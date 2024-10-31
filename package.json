@@ -3,6 +3,7 @@
   "version": "1.2.0",
   "description": "Buttery smooth Svelte toasts. Lightweight, customizable, and beautiful by default.",
   "main": "dist/index.js",
+  "module": "dist/index.js",
   "keywords": [
     "svelte",
     "notifications",
